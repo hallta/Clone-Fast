@@ -1,4 +1,4 @@
-Fri Jul 17 08:26:14 PST 2006 	Trevor Hall <wazzuteke@cpan.org>
+Fri Jul 17 08:26:14 PST 2006
 
 	Version 0.90.1
 		1. Initial release to CPAN
@@ -15,4 +15,7 @@ Sun Feb 12 17:43:44 PST
     Version 0.96
         Remove debugging code
 
-   
+Fri Sep 21 11:49:43 PDT 2012
+    Version 0.96.1
+        Moved to public repository
+

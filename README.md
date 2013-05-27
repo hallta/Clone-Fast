@@ -1,40 +1,32 @@
 Clone-Fast
 =========================
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
+# NAME
 
-A README file is required for CPAN modules since CPAN extracts the
-README file from a module distribution so that people browsing the
-archive can use it get an idea of the modules uses. It is usually a
-good idea to provide version information here so that people can
-decide whether fixes for the module are worth downloading.
+Clone::Fast - Natively copying Perl data structures
 
-INSTALLATION
+# Deprecation
 
-To install this module type the following:
+As of 2013-05-27, this module is no longer maintained or supported and has been removed from CPAN. The code will
+continue to be hosted on Github, where anyone can feel free to fork it and update it. Some good alternates which 
+should be relatively simple to migrate to are:
 
-   perl Makefile.PL
-   make
-   make test
-   make install
+* [Storable](http://search.cpan.org/~ams/Storable-2.39/Storable.pm)
+* [Clone](http://search.cpan.org/~garu/Clone-0.34/Clone.pm)
+* [Clone::PP](http://search.cpan.org/~evo/Clone-PP-1.02/PP.pm)
 
-DEPENDENCIES
+For any questions or anyone wanting to take on continued maintenance of this code, please email me at 
 
-This module requires these other modules and libraries:
+```
+wazzuteke - at - cpan dot org
+```
 
-  blah blah blah
+# Documentation
 
-COPYRIGHT AND LICENCE
+It's probably best to read [the POD in the module itself](https://github.com/hallta/Clone-Fast/blob/master/lib/Clone/Fast.pm#L23)
 
-Put the correct copyright and licence information here.
-
-Copyright (C) 2006 by Trevor Hall
+# COPYRIGHT AND LICENCE
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.5 or,
 at your option, any later version of Perl 5 you may have available.
-
-

@@ -344,10 +344,6 @@ Trevor Hall, E<lt>wazzuteke@cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2006-2012 by Trevor Hall
-
-This is free software, licensed under:
-
-    The Artistic License 2.0 (GPL Compatible)
+This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
 
 =cut

@@ -1,11 +1,11 @@
-Clone-Fast
+Clone::Fast
 =========================
 
-# NAME
+### NAME
 
 Clone::Fast - Natively copying Perl data structures
 
-# Deprecation
+### Deprecation
 
 As of 2013-05-27, this module is no longer maintained or supported and has been removed from CPAN. The code will
 continue to be hosted on Github, where anyone can feel free to fork it and update it. Some good alternates which 
@@ -21,11 +21,11 @@ For any questions or anyone wanting to take on continued maintenance of this cod
 wazzuteke - at - cpan dot org
 ```
 
-# Documentation
+### Documentation
 
 It's probably best to read [the POD in the module itself](https://github.com/hallta/Clone-Fast/blob/master/lib/Clone/Fast.pm#L23)
 
-# COPYRIGHT AND LICENCE
+### COPYRIGHT AND LICENCE
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.5 or,
